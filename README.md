@@ -1,4 +1,4 @@
-fraise🍓 • développeuse • elle/grand master jedi 🏳️‍⚧️ [![pineapplehehe](https://skillicons.dev/icons?i=pinia)](https://skillicons.dev)
+fraise🍓
 
 <details>
   <summary>Github Stats 👾</summary>
