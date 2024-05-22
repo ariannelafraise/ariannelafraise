@@ -5,25 +5,25 @@
 </details>
 
 # Languages
-[![Languages](https://skillicons.dev/icons?i=js,java,py,cs&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,java,py,cs)](https://skillicons.dev)
 
 # Frameworks
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,spring,react,redux,bootstrap,tailwind&theme=light)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,spring,react,redux,bootstrap,tailwind)](https://skillicons.dev)
 
 # Database
-[![Database](https://skillicons.dev/icons?i=mongodb,mysql,sqlite&theme=light)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
 # Discord Bots
-[![Discord Bots](https://skillicons.dev/icons?i=discordjs&theme=light)](https://skillicons.dev)
+[![Discord Bots](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
 
 # Deployment
-[![Deployment](https://skillicons.dev/icons?i=docker,kubernetes&theme=light)](https://skillicons.dev)
+[![Deployment](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
 # OS
-[![OS](https://skillicons.dev/icons?i=linux,bash&theme=light)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
 
 # Git
-[![Git](https://skillicons.dev/icons?i=git,github,githubactions,gitlab&theme=light)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)](https://skillicons.dev)
 
 # Art
-[![Art](https://skillicons.dev/icons?i=ableton,ps&theme=light)](https://skillicons.dev)
+[![Art](https://skillicons.dev/icons?i=ableton,ps)](https://skillicons.dev)
