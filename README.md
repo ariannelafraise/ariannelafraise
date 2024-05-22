@@ -29,7 +29,7 @@ Deployment
 
 OS
 
-[![OS](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
+[![OS](https://skillicons.dev/icons?i=linux,bash,raspberrypi)](https://skillicons.dev)
 
 Git
 
