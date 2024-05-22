@@ -8,7 +8,7 @@ fraise🍓
   </a>
 </details>
 
-# Skills
+## Skills
 Languages
 
 [![Languages](https://skillicons.dev/icons?i=js,java,py,cs)](https://skillicons.dev)
