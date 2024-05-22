@@ -1,7 +1,9 @@
 <details>
-<summary>Github Stats</summary>
-<br>
-![image](https://github.com/Develya/Develya/assets/76917463/b1ea16bf-01c6-4f8c-b58f-edb7ab45d24c)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Develya&layout=pie&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  <summary>Github Stats</summary>
+  <br>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api/top-langs/?username=Develya&layout=pie&theme=tokyonight)" />
+  </a>
 </details>
 
 # Languages
