@@ -1,4 +1,4 @@
-# arianne🍓
+# 🍓
 
 <details>
   <summary>Github Stats 👾</summary>
