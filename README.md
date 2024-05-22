@@ -1,31 +1,32 @@
 <details>
-  <summary>Github Stats</summary>
+  <summary>Github Stats 👾</summary>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Develya&layout=pie&theme=tokyonight" />
   </a>
 </details>
 
-# Languages
+# Skills
+Languages
 [![Languages](https://skillicons.dev/icons?i=js,java,py,cs)](https://skillicons.dev)
 
-# Frameworks
+Frameworks
 [![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,spring,react,redux,bootstrap,tailwind)](https://skillicons.dev)
 
-# Database
+Database
 [![Database](https://skillicons.dev/icons?i=mongodb,mysql,sqlite)](https://skillicons.dev)
 
-# Discord Bots
+Discord Bots
 [![Discord Bots](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
 
-# Deployment
+Deployment
 [![Deployment](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev)
 
-# OS
+OS
 [![OS](https://skillicons.dev/icons?i=linux,bash)](https://skillicons.dev)
 
-# Git
+Git
 [![Git](https://skillicons.dev/icons?i=git,github,githubactions,gitlab)](https://skillicons.dev)
 
-# Art
+Art
 [![Art](https://skillicons.dev/icons?i=ableton,ps)](https://skillicons.dev)
