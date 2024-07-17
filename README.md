@@ -23,7 +23,7 @@ Database
 
 Discord Bots
 
-[![Discord Bots](https://skillicons.dev/icons?i=discordjs)](https://skillicons.dev)
+[![Discord Bots](https://skillicons.dev/icons?i=discordjs,discordpy)](https://skillicons.dev)
 
 Deployment
 
