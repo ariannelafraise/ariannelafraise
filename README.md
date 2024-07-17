@@ -15,7 +15,7 @@ Languages
 
 Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=nodejs,nextjs,spring,react,redux,bootstrap,tailwind)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nodejs,spring,react,redux,bootstrap)](https://skillicons.dev)
 
 Database
 
