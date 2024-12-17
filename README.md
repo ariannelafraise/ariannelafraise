@@ -2,9 +2,9 @@
 
 🎓 software engineering student
 
-🏎️ car girl
+🗡️ ctf player
 
-🗡️ aspiring ctf player
+🏎️ car girl
 
 🏳️‍⚧️ proudly trans
 
