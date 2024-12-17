@@ -1,9 +1,5 @@
 🍓 weird strawberry girl, im an artist & IT nerd
 
-🎓 software engineering student
-
-🗡️ ctf player
-
 🏎️ car girl
 
 🏳️‍⚧️ proudly trans
