@@ -2,6 +2,12 @@
 
 🎓 software engineering student
 
+🏎️ car girl
+
+🗡️ aspiring ctf player
+
+🏳️‍⚧️ proudly trans
+
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,ts,js,py,cs)](https://skillicons.dev)
