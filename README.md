@@ -1,8 +1,5 @@
-# 🍓
-
-weird strawberry girl, im an artist & IT nerd
-
-software engineering student
+🍓 weird strawberry girl, im an artist & IT nerd
+🎓 software engineering student
 
 ### Languages
 
