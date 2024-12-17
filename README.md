@@ -2,6 +2,8 @@
 
 weird strawberry girl, im an artist & IT nerd
 
+software engineering student
+
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,ts,js,py,cs)](https://skillicons.dev)
