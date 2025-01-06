@@ -30,4 +30,4 @@
 
 ### OS
 
-<img src="arch.png" alt="My NixOS desktop" width="400" style="margin-left: 15px;"/>
+<img src="arch.png" alt="My OS desktop" width="400" style="margin-left: 15px;"/>
