@@ -4,6 +4,8 @@
 
 🏳️‍⚧️ proudly trans
 
+[Root-Me](https://www.root-me.org/ariannelafraise)
+
 ### Languages
 
 [![Languages](https://skillicons.dev/icons?i=java,ts,js,py,cs)](https://skillicons.dev)
