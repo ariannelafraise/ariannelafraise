@@ -4,7 +4,7 @@
 
 🏳️‍⚧️ proudly trans
 
-[Root-Me](https://www.root-me.org/ariannelafraise)
+💀 [root-me](https://www.root-me.org/ariannelafraise)
 
 ### Languages
 
