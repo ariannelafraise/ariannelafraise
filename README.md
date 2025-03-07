@@ -12,7 +12,7 @@
 
 ### Frameworks
 
-[![Frameworks](https://skillicons.dev/icons?i=next,react,redux,bootstrap,spring,nodejs)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=next,react,redux,bootstrap,tailwind,spring,nodejs)](https://skillicons.dev)
 
 ### Database
 
