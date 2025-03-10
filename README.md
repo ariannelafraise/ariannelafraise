@@ -1,9 +1,3 @@
-🍓 weird strawberry girl, im an artist & IT nerd
-
-🏎️ car girl
-
-🏳️‍⚧️ proudly trans
-
 💀 [root-me](https://www.root-me.org/ariannelafraise)
 
 ### Languages
