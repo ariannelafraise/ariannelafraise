@@ -10,7 +10,7 @@
 
 ### Art
 
-[![Art](https://skillicons.dev/icons?i=ps,ableton)](https://skillicons.dev)
+[![Art](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 ### OS
 <img src="arch.png" alt="My OS desktop" width="400" style="margin-left: 15px;"/>
