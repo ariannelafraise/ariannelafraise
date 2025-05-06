@@ -2,5 +2,5 @@
 
 Passionate about cybersecurity and software development!
 
-### Linux Desktop
+### My Linux desktop
 <img src="arch.png" alt="My OS desktop" width="400" style="margin-left: 15px;"/>
