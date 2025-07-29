@@ -1,6 +1,6 @@
 💀 [root-me](https://www.root-me.org/ariannelafraise)
 
-👾 [my projects](https://paintilya.dev)
+👾 [my projects](https://arianne.paintilya.dev)
 
 Passionate about cybersecurity and software development!
 
