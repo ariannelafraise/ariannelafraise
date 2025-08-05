@@ -2,4 +2,4 @@
 
 💀 [root-me](https://www.root-me.org/ariannelafraise)
 
-👾 [my projects](https://arianne.dev)
+👾 [my website](https://arianne.dev)
