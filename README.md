@@ -1,4 +1,4 @@
-![arianne](name.png)
+![arianne](signature.png)
 
 🦋 [my website](https://arianne.dev)
 
