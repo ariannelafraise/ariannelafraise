@@ -9,8 +9,6 @@
 d88P     888 888     888 "Y888888 888  888 888  888  "Y8888  
 ```
 
-🦋 [my website](https://arianne.dev)
-
 Currently working on:
 - [October Linux](https://github.com/october-os), an Arch-based Linux distribution
 - [HiveSec](https://github.com/ariannelafraise/hivesec), a Linux audit event processing framework
