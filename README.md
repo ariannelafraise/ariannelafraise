@@ -9,7 +9,7 @@
 d88P     888 888     888 "Y888888 888  888 888  888  "Y8888  
 ```
 
-![GitHub Stats Card](https://ghstats.dev/api/card?username=ariannelafraise&theme=catppuccin&show_ring=false&hide_border=true)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=ariannelafraise&theme=tokyonight&show_ring=false&hide=streak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Crepos%2Cfollowers)
 
 Currently working on:
 - [October Linux](https://octoberlinux.org), an Arch-based Linux distribution
